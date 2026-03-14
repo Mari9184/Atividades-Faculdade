@@ -27,6 +27,5 @@ class Main {
             default:
                 System.out.print("Não possui este periodo.");
         }
-        
     }
 }
